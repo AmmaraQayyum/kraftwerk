@@ -1,0 +1,10 @@
+Observation about the BarCoupon:
+
+Based on the visualizations, 41% of the bar coupons were accepted by the people while 59% chose to reject. 1: Among 41%, people who visit a bar more than 3 times a month preffered to accept. The acceptance rate is 77% 2: There found no significant difference among people (who are younger than 25 years of age and visit a bar more than once) and (the people who are older than 25 and visit a bar more than once). 3: A clear distinction can be seen in acceptance between the people accompaning the kids and people travelling without the kids. The rate is significant low in the later option which is 0.33% 4: Income did impact the acceptance, people earning less than 50K opted out the coupons while the biengs less than the age of 30 accepted the coupons most.
+Conclusion from the above observation is that people who are either younger than 30(visit a bar more than once a month) or people travelling without the kids(visit a bar more than once a month) accepted the coupons most.
+
+Observation about the CofeeCoupon:
+
+Observations about the CoffeCoupon: 1: The most offered coupon is CoffeeHouse. 2: People under age 21 has the highest rate of acceptance. 3: People travelling to non urgent places preffered to accept as compare to people travelling to work or home. 3: Weather is a true contributor as the rate of acceptance declined significanlty during the rainy day. 4: Income wise, there is not a noticeable differnce. Almost the same rate is observed in the range of 18K to 60K. 5: Profession wise, peole interested to accept the coupons are students and unemployed, although the acceptance rate is highest in health care professionals. 6: Upon observing the age of students, health care profesionals, and unempoyed people, peoples aged 21 and below are the most attracted people to utilize the coupons. Conclusion: To increase the acceptance rate of the coffee coupons, the targeted community should be below age of 22. Coupons should be offered on a sunny day. Another vital element that should be considered is the profession. As the age suggest that most of the community will be either surdents or unemployed.
+
+
